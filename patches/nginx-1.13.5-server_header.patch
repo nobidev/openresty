@@ -7,7 +7,7 @@ index a3c0ef8..1263881 100644
  #define nginx_version      1013005
  #define NGINX_VERSION      "1.13.5"
 -#define NGINX_VER          "nginx/" NGINX_VERSION
-+#define NGINX_VER          "openresty/" NGINX_VERSION ".unknown"
++#define NGINX_VER          "NobiDev/" NGINX_VERSION ".unknown"
  
  #ifdef NGX_BUILD
  #define NGINX_VER_BUILD    NGINX_VER " (" NGX_BUILD ")"
